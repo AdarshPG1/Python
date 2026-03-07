@@ -1,3 +1,3 @@
 a=True
 print(a)
-print(type(a))
+print(type(a)) 
