@@ -1,9 +1,13 @@
-age=int(input("Enter age of Person:"))
+age=int(input("Enter Your Age:"))
+
 if age<13:
     print("child")
+
 elif age<20:
     print("Teenager")
+
 elif age<60:
-    print("Adult")
+    print("adult")
+
 else:
     print("Senior")
