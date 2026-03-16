@@ -1,4 +1,4 @@
-number= 29
+number= 15
 
 is_prime=True
 
